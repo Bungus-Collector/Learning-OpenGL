@@ -6,7 +6,7 @@
 * Code is basically just copied from this tutorial series with my own comments:
 * https://www.youtube.com/watch?v=hYZNN0MTLuc&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=3
 * The videos have been helpful so far but a few adjustments have been made since the tutorial
-* gut uses glad and we're using glew.
+* guy uses glad and we're using glew.
 */
 
 //Copy and pasted vertex and fragment shader source in gl shading language
