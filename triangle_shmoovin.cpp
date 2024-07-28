@@ -9,6 +9,12 @@
 #define HEIGHT 800
 #define WIDTH 800
 
+/*
+* Added some very crude directional input to control the triangle on screen.
+* Escape key now closes the window.
+* Also the triangle is spinning wow
+*/
+
 //MVP is the passed model-view-position matrix for moving verticies around
 const char* vertexShaderSource = R"glsl(
     #version 330 core
