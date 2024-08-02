@@ -1,3 +1,10 @@
+/*
+Assignment 2, created by:
+Gabriel Lagacé, 40236989
+Peter Howe 40237623
+Chistopher Puran 40006107
+*/
+
 #include <iostream>
 #include "GL/glew.h"
 #include "GLFW/glfw3.h"
